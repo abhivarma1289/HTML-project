@@ -2,8 +2,8 @@
         <div class="row justify-content-between">
             <div class="col-9">EAMCET/ ICET / PGCET CODE: CMRG</div>
             <div class="col-3">
-                <a href="#" style="text-decoration: none; color: black; font-size: 14px;" class="fw-bold"><i class="bu bi-person-circle"></i> Student login</a>
-                <a href="#" style="text-decoration: none; color: black; font-size: 14px;" class="fw-bold"><i class="bu bi-people-fill"></i> Staff login</a>
+                <a href="https://cmrtcerp.com/BEESERP/Login.aspx" style="text-decoration: none; color: black; font-size: 14px;" class="fw-bold"><i class="bu bi-person-circle"></i> Student login</a>
+                <a href="https://cmrtc.ac.in/staff-login/" style="text-decoration: none; color: black; font-size: 14px;" class="fw-bold"><i class="bu bi-people-fill"></i> Staff login</a>
             </div>
         </div>
     </div>
@@ -15,7 +15,7 @@
             <div class="col-3">
                 <button type="button" class="btn btn-success">Courses</button>
                 <button type="button" class="btn btn-outline-primary">ARIIA</button>
-                <button type="button" class="btn btn-outline-warning">NIRF</button>
+                <button type="button" class="btn btn-outline-warning">NIRF</butto
             </div>
         </div>
     </div>
