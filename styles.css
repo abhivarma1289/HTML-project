@@ -1,0 +1,19 @@
+body {font-family: Arial, Helvetica, sans-serif;
+box-sizing: border-box
+}
+.container{
+  background-origin: padding-box;
+
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th {
+  background-color: #053852!important;
+  color: #fff!important;
+}
+.abhi{
+  color: greenyellow;
+}
